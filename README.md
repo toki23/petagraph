@@ -18,3 +18,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+# やりたいこと
+excelより便利なグラフ作れるやつ作れたらうれしいなって
