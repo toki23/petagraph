@@ -1,6 +1,7 @@
 <template>
   <div class="container">
  <h1>なんかデータ用意するページ</h1>
+ <Databacket />
   </div>
 </template>
 
@@ -9,7 +10,8 @@ export default {}
 </script>
 
 <style>
-.container {
+.container 
+Databacket{
   margin: 0 auto;
   min-height: 100vh;
   display: flex;
