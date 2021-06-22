@@ -1,6 +1,6 @@
 <template>
   <div class="container">
- <h1>なんかデータ用意するページ</h1>
+ <h1>グラフ見れるページ</h1>
   </div>
 </template>
 
@@ -17,6 +17,7 @@ export default {}
   align-items: center;
   text-align: center;
 }
+
 
 .title {
   font-family:
