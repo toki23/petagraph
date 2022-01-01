@@ -1,2 +1,18 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+	let data = '';
+	const inputeData = () => {
+		console.log(data);
+	};
+</script>
+
+<h1>input data here</h1>
+<textarea bind:value={data} on:input={inputeData} />
+<!-- graph Data
+1	2
+2	4
+3	8
+4	16
+
+
+
+\-->
